@@ -16,9 +16,6 @@ images/
 *.crdownload
 *.pyc
 core.*
-guardian_shells/
 *.log
 tmp
-*.jar
-ny_audios.json
 ./*.epub
